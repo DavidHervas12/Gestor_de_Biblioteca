@@ -1,3 +1,3 @@
 # Gestor_de_Biblioteca
 
-![CapturaAplicacion](./img/Captura_aplicacion.png)
+![CapturaAplicacion](captura_app.png)
